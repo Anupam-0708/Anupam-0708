@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anupam Mehetre</h1>
+<h3 align="center">📊 Data Analyst | 🤖 Data Science Enthusiast</h3>
 
-<!--
-**Anupam-0708/Anupam-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Turning raw data into insights using analytics, visualization, and machine learning.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Engineering Student  
+- 📈 Passionate about **Data Analytics & Data Science**  
+- 🧠 Love solving real-world problems with data  
+- 📊 Strong interest in **Power BI dashboards & ML models**  
+
+---
+
+### 🧰 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Science-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Featured Projects
+- 📌 **New Year Resolution Analytics Dashboard (Power BI)**  
+- 📌 **Tractor Sales Data Analysis**  
+- 📌 **Customer & Sales Insights Dashboard**  
+- 📌 **Machine Learning Mini Projects**
+
+---
+
+### 📈 What I’m Currently Working On
+- Advanced **Power BI (DAX & Data Modeling)**  
+- Real-world **Analytics Case Studies**  
+- Machine Learning fundamentals  
+
+---
+
+### 🤝 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Career Goal
+To build a strong career as a **Data Analyst / Data Scientist** and contribute to data-driven decision-making in organizations.
