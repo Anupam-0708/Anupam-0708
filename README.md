@@ -47,35 +47,10 @@ Analyzed New Year resolution data to track progress, completion rates, and categ
 - Progress tracking using interactive visuals  
 
 🖼️ **Dashboard Preview:**  
-<img src="screenshots/img1.png" width="700"/>
+<img src="New-Year-Revolution-Data-Analytics-/screenshots/img1.png" width="700"/>
 
 
 🔗 Repository: `New-Year-Resolution-Analytics`
-
----
-
-### 🔹 Tractor Sales Analytics Dashboard
-📌 **Description:**  
-Sales analytics project focused on tractor sales performance, customer trends, and revenue insights.
-
-✅ Key Insights:
-- Sales by model and region  
-- Monthly revenue trends  
-- Customer purchase behavior  
-
-🖼️ **Dashboard Preview:**  
-<img src="screenshots/tractor_sales_dashboard.png" width="700"/>
-
-🔗 Repository: `Tractor-Sales-Analytics`
-
----
-
-### 🔹 Sales & Customer Data Analysis
-📌 **Description:**  
-Performed exploratory data analysis (EDA) on sales and customer datasets using Python.
-
-🛠 Tools:
-- Python, Pandas, NumPy, Matplotlib  
 
 ---
 
