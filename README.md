@@ -47,7 +47,7 @@ Analyzed New Year resolution data to track progress, completion rates, and categ
 - Progress tracking using interactive visuals  
 
 🖼️ **Dashboard Preview:**  
-<img src="screenshots/new_year_resolution_dashboard.png" width="700"/>
+<img src="screenshots/Screenshot 2026-01-10 165520.png" width="700"/>
 
 🔗 Repository: `New-Year-Resolution-Analytics`
 
