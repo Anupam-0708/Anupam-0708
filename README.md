@@ -36,6 +36,46 @@ Turning raw data into insights using analytics, visualization, and machine learn
 - 📌 **Customer & Sales Insights Dashboard**  
 - 📌 **Machine Learning Mini Projects**
 
+
+### 🔹 New Year Resolution Analytics (Power BI)
+📌 **Description:**  
+Analyzed New Year resolution data to track progress, completion rates, and category-wise trends using Power BI.
+
+✅ Key Insights:
+- Resolution completion vs pending analysis  
+- Category-wise goal distribution  
+- Progress tracking using interactive visuals  
+
+🖼️ **Dashboard Preview:**  
+<img src="screenshots/new_year_resolution_dashboard.png" width="700"/>
+
+🔗 Repository: `New-Year-Resolution-Analytics`
+
+---
+
+### 🔹 Tractor Sales Analytics Dashboard
+📌 **Description:**  
+Sales analytics project focused on tractor sales performance, customer trends, and revenue insights.
+
+✅ Key Insights:
+- Sales by model and region  
+- Monthly revenue trends  
+- Customer purchase behavior  
+
+🖼️ **Dashboard Preview:**  
+<img src="screenshots/tractor_sales_dashboard.png" width="700"/>
+
+🔗 Repository: `Tractor-Sales-Analytics`
+
+---
+
+### 🔹 Sales & Customer Data Analysis
+📌 **Description:**  
+Performed exploratory data analysis (EDA) on sales and customer datasets using Python.
+
+🛠 Tools:
+- Python, Pandas, NumPy, Matplotlib  
+
 ---
 
 ### 📈 What I’m Currently Working On
