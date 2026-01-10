@@ -47,7 +47,7 @@ Turning raw data into insights using analytics, visualization, and machine learn
 
 ### 🤝 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/anupam0708?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:anupammehetre0708@gmail.com">
