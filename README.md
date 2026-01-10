@@ -49,8 +49,10 @@ Analyzed New Year resolution data to track progress, completion rates, and categ
 🖼️ **Dashboard Preview:**  
 <img src="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/img1.png" width="600"/>
 <img src="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/Screenshot 2026-01-10 165644.png" width="600"/>
-<img src="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/img1.png" width="600"/>
-<img src="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/img1.png" width="600"/>
+
+<img src="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/Screenshot 2026-01-10 165622.png" width="600"/>
+
+<img src="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/Screenshot 2026-01-10 165604.png" width="600"/>
 
 
 
