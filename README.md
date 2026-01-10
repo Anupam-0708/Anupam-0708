@@ -57,7 +57,7 @@ Analyzed New Year resolution data to track progress, completion rates, and categ
 
 
 
-🔗 Repository: `New-Year-Resolution-Analytics`
+🔗 <a href="https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-"> Repository</a>
 
 ---
 
