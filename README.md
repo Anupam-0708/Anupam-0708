@@ -47,7 +47,7 @@ Analyzed New Year resolution data to track progress, completion rates, and categ
 - Progress tracking using interactive visuals  
 
 🖼️ **Dashboard Preview:**  
-![image alt][https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/main/screenshots/img1.png?raw=true](https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/cef7130981fc8dc95419819db6f668c6659c659b/screenshots/img1.png)
+![image alt](https://github.com/Anupam-0708/New-Year-Revolution-Data-Analytics-/blob/cef7130981fc8dc95419819db6f668c6659c659b/screenshots/img1.png)
 
 
 
