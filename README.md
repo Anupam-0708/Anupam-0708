@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam Mehetre</h1>
-<h3 align="center">📊 Computer Engineer | 🤖 Data Science Enthusiast</h3>
+<h3 align="center">📊 Computer Engineer</h3>
 
 <p align="center">
 Turning raw data into insights using analytics, visualization, and machine learning.
@@ -9,9 +9,9 @@ Turning raw data into insights using analytics, visualization, and machine learn
 
 ### 🚀 About Me
 - 🎓 Computer Engineering Student  
-- 📈 Passionate about **Data Analytics & Data Science**  
-- 🧠 Love solving real-world problems with data  
-- 📊 Strong interest in **Power BI dashboards & ML models**  
+- 📈 Passionate about **Software Development, Data Analysis **  
+- 🧠 Love solving real-world problems with Logic and Data
+- 📊 Strong interest in **Software Development, Testing, Power BI dashboards & ML models**  
 
 ---
 
@@ -31,8 +31,8 @@ Turning raw data into insights using analytics, visualization, and machine learn
 ---
 
 ### 📊 Featured Projects
+- 📌 **Tractor Sales Data Analysis**
 - 📌 **New Year Resolution Analytics Dashboard (Power BI)**  
-- 📌 **Tractor Sales Data Analysis**  
 - 📌 **Customer & Sales Insights Dashboard**  
 - 📌 **Machine Learning Mini Projects**
 
