@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam Mehetre</h1>
-<h3 align="center">📊 Data Analyst | 🤖 Data Science Enthusiast</h3>
+<h3 align="center">📊 Computer Engineer | 🤖 Data Science Enthusiast</h3>
 
 <p align="center">
 Turning raw data into insights using analytics, visualization, and machine learning.
